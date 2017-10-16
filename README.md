@@ -4,7 +4,7 @@ jer nemože učitati class library. Treba poslati ClassLibrary.dll i ConsoleAppl
 
 # Pitanje 2:
 Pri pokretanju konzolne aplikacije preko .exe datoteke ispisuje se stari string jer je ClassLibrary.dll ostao isti. 
-Kako bi dobili novi stringtreba prevesti class library.
+Kako bi dobili novi string treba prevesti class library.
 
 # Pitanje 3:
 Build proces downloada NuGet pakete koji nedostaju te se u packages direktoriju opet pojavi NodaTime.
